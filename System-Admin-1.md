@@ -58,4 +58,25 @@
     - Description
     - Choose ‘Export Mode’
     - Check ‘Prepare for Export’
+- Click OK
+- Once Snapshot is done click ‘Export’
+- Click (+) to add Tenant.
+- Fill in the following fields
+    - Header Section
+        * Login Name
+        * Tenant Name
+- Click Save
+- Click ‘Import Snapshot’
+- Upload the Exported Snapshot.
+- Once done Click Save
 
+## Create User
+- Go to User Security > User Management > User
+- Fill in the following fields:
+    * Login
+    * Linked to entity (select employee masterdata)
+- Check ‘Generate Password’.
+- Check ‘Force User to Change Password on Next Login’
+- Click Save.
+- Click ‘Role’ and select the assigned roles of the user.
+- Then Save.
